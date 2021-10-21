@@ -6,7 +6,7 @@
  * @example 
  * const arr = new Uint8Array([48, 57]);
  * const number = toInt16(arr)
- * // number = 12345
+ * // number = 14640
  * 
  */
 export function toInt16 (bytes: Uint8Array): number | Error {
