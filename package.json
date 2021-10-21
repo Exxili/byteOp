@@ -1,0 +1,7 @@
+{
+  "name": "@exxili/byteop",
+  "version": "1.0.0",
+  "description": "Small Helper Library for working with Hex/Decimal Values when communicating with Embedded Systems",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts"
+}
